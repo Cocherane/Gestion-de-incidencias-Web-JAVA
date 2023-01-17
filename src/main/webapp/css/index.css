@@ -1,0 +1,67 @@
+
+html, body {
+    height: 100%;
+}
+
+
+.fill { 
+    min-height: 100%;
+    height: 100%;
+}
+
+#backgroundImagen {
+    background-image: url('../img/background-index.svg');
+    background-size: 100% 100%; 
+    background-size: cover; 
+    background-repeat: no-repeat;
+  }
+
+  #content, #main{
+    height: 100%;
+  }
+
+  @font-face {
+    font-family: indian-flower;
+    src: url( '../font/IndieFlower-Regular.ttf' );
+  }
+
+  @font-face {
+    font-family: anton-regular;
+    src: url( '../font/Anton-Regular.ttf' );
+  }
+  
+  @font-face {
+    font-family: magic-candy;
+    src: url( '../font/MagicCandy-K7nre.ttf' );
+  }
+
+  @font-face {
+    font-family: Qwitcher Grypen;
+    src: url( '../font/PermanentMarker-Regular.ttf' );
+  }
+
+  @font-face {
+    font-family: MsMansy;
+    src: url( '../font/MsMadi-Regular.ttf' );
+  }
+  
+
+  .slogan-main {
+    font-family: magic-candy,cursive;
+  }
+
+  .slogan {
+    font-family: indian-flower, cursive;
+  }
+
+  .title-main{
+    font-family: 'Qwitcher Grypen', cursive;
+  }
+
+  .name-user{
+    font-family: 'MsMansy', cursive;
+  }
+
+  /**/
+
+ 

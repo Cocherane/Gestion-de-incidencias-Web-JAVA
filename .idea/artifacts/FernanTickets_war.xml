@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="FernanTickets:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>FernanTickets</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="FernanTickets-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="FernanTickets:war exploded" />
+    </root>
+  </artifact>
+</component>

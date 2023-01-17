@@ -1,0 +1,651 @@
+Actividad,UserName,Email,TypeUser,Fecha,IdIncidencia
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed May 25 22:33:31 CEST 2022,NaN
+Inicio de Sesion,Jose Martinez,arielcocherane@gmail.com,Usuario,Wed May 25 22:34:05 CEST 2022,NaN
+Inicio de Sesion,Jose Martinez,arielcocherane@gmail.com,Usuario,Wed May 25 22:34:42 CEST 2022,NaN
+Inicio de Sesion,Jose Martinez,arielcocherane@gmail.com,Usuario,Wed May 25 23:15:39 CEST 2022,NaN
+Inicio de Sesion,Jose Martinez,arielcocherane@gmail.com,Usuario,Wed May 25 23:19:05 CEST 2022,NaN
+Nueva incidencia,Jose Martinez,arielcocherane@gmail.com,Usuario,Wed May 25 23:19:37 CEST 2022,40832
+Nueva incidencia,Jose Martinez,arielcocherane@gmail.com,Usuario,Wed May 25 23:21:33 CEST 2022,24584
+Inicio de Sesion,Jose Martinez,arielcocherane@gmail.com,Usuario,Wed May 25 23:28:20 CEST 2022,NaN
+Inicio de Sesion,Jose Martinez,arielcocherane@gmail.com,Usuario,Wed May 25 23:35:41 CEST 2022,NaN
+Inicio de Sesion,Jose Martinez,arielcocherane@gmail.com,Usuario,Wed May 25 23:36:15 CEST 2022,NaN
+Cierre de Sesion,Jose Martinez,arielcocherane@gmail.com,Usuario,Wed May 25 23:37:56 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed May 25 23:40:51 CEST 2022,NaN
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed May 25 23:41:24 CEST 2022,NaN
+Inicio de Sesion,Pepe Lopez,pepe@gmail.com,Tecnico,Wed May 25 23:43:03 CEST 2022,NaN
+Inicio de Sesion,Pepe Lopez,pepe@gmail.com,Tecnico,Wed May 25 23:44:39 CEST 2022,NaN
+Inicio de Sesion,Pepe Lopez,pepe@gmail.com,Tecnico,Wed May 25 23:45:12 CEST 2022,NaN
+Inicio de Sesion,Pepe Lopez,pepe@gmail.com,Tecnico,Wed May 25 23:46:54 CEST 2022,NaN
+Cierre de Sesion,Pepe Lopez,pepe@gmail.com,Tecnico,Wed May 25 23:47:46 CEST 2022,NaN
+Inicio de Sesion,Joel Sistera,admin@gmail.com,Admin,Wed May 25 23:48:25 CEST 2022,NaN
+Inicio de Sesion,Joel Sistera,admin@gmail.com,Admin,Wed May 25 23:52:35 CEST 2022,NaN
+Inicio de Sesion,Joel Sistera,admin@gmail.com,Admin,Wed May 25 23:53:54 CEST 2022,NaN
+Inicio de Sesion,Joel Sistera,admin@gmail.com,Admin,Thu May 26 00:05:59 CEST 2022,NaN
+Inicio de Sesion,Joel Sistera,admin@gmail.com,Admin,Thu May 26 08:26:01 CEST 2022,NaN
+Inicio de Sesion,Joel Sistera,admin@gmail.com,Admin,Thu May 26 08:31:12 CEST 2022,NaN
+Asignacion incidencia,Efrain Garcia,efrain@gmail.com,Tecnico,Thu May 26 08:31:31 CEST 2022,24584
+Cierre de Sesion,Joel Sistera,admin@gmail.com,Admin,Thu May 26 08:32:15 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Thu May 26 08:32:36 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Thu May 26 08:47:26 CEST 2022,NaN
+Inicio de Sesion,Joel Sistera,admin@gmail.com,Admin,Thu May 26 08:48:52 CEST 2022,NaN
+Inicio de Sesion,Joel Sistera,admin@gmail.com,Admin,Thu May 26 08:58:37 CEST 2022,NaN
+Asignacion incidencia,Efrain Garcia,efrain@gmail.com,Tecnico,Thu May 26 09:00:26 CEST 2022,40832
+Inicio de Sesion,Joel Sistera,admin@gmail.com,Admin,Thu May 26 20:20:01 CEST 2022,NaN
+Cierre de Sesion,Joel Sistera,admin@gmail.com,Admin,Thu May 26 20:21:00 CEST 2022,NaN
+Inicio de Sesion,Jose Martinez,arielcocherane@gmail.com,Usuario,Thu May 26 20:24:44 CEST 2022,NaN
+Nueva incidencia,Jose Martinez,arielcocherane@gmail.com,Usuario,Thu May 26 20:25:30 CEST 2022,50413
+Nueva incidencia,Jose Martinez,arielcocherane@gmail.com,Usuario,Thu May 26 20:26:13 CEST 2022,59151
+Cierre de Sesion,Jose Martinez,arielcocherane@gmail.com,Usuario,Thu May 26 20:27:28 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Thu May 26 20:27:46 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Thu May 26 20:33:05 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Thu May 26 20:36:55 CEST 2022,NaN
+Inicio de Sesion,Joel Sistera,admin@gmail.com,Admin,Thu May 26 20:40:09 CEST 2022,NaN
+Asignacion incidencia,Pepe Lopez,pepe@gmail.com,Tecnico,Thu May 26 20:41:17 CEST 2022,59151
+Inicio de Sesion,Joel Sistera,admin@gmail.com,Admin,Thu May 26 20:49:37 CEST 2022,NaN
+Asignacion incidencia,Pepe Lopez,pepe@gmail.com,Tecnico,Thu May 26 20:50:20 CEST 2022,50413
+Inicio de Sesion,Joel Sistera,admin@gmail.com,Admin,Thu May 26 20:59:13 CEST 2022,NaN
+Inicio de Sesion,Joel Sistera,admin@gmail.com,Admin,Thu May 26 20:59:58 CEST 2022,NaN
+Inicio de Sesion,Joel Sistera,admin@gmail.com,Admin,Thu May 26 21:00:54 CEST 2022,NaN
+Cierre de Sesion,Joel Sistera,admin@gmail.com,Admin,Thu May 26 21:03:59 CEST 2022,NaN
+Inicio de Sesion,Ariel Lopez,lololo~~1234@gmail.com,Usuario,Thu May 26 21:06:31 CEST 2022,NaN
+Inicio de Sesion,Jose Martinez,arielcocherane@gmail.com,Usuario,Thu May 26 21:22:53 CEST 2022,NaN
+Inicio de Sesion,Jose Martinez,arielcocherane@gmail.com,Usuario,Thu May 26 21:31:18 CEST 2022,NaN
+Cierre de Sesion,Jose Martinez,arielcocherane@gmail.com,Usuario,Thu May 26 21:31:21 CEST 2022,NaN
+Inicio de Sesion,Joel Sistera,admin@gmail.com,Admin,Thu May 26 21:31:40 CEST 2022,NaN
+Cierre de Sesion,Joel Sistera,admin@gmail.com,Admin,Thu May 26 21:32:24 CEST 2022,NaN
+Inicio de Sesion,ASDA AAASDASD,a@,Tecnico,Thu May 26 21:32:36 CEST 2022,NaN
+Inicio de Sesion,Ariel Lopez,lololo~~1234@gmail.com,Usuario,Thu May 26 21:46:52 CEST 2022,NaN
+Inicio de Sesion,ASDA AAASDASD,a@,Tecnico,Thu May 26 21:48:25 CEST 2022,NaN
+Cierre de Sesion,ASDA AAASDASD,a@,Tecnico,Thu May 26 21:48:39 CEST 2022,NaN
+Inicio de Sesion,Joel Sistera,admin@gmail.com,Admin,Thu May 26 21:48:55 CEST 2022,NaN
+Cierre de Sesion,Joel Sistera,admin@gmail.com,Admin,Thu May 26 21:50:08 CEST 2022,NaN
+Inicio de Sesion,Joel Sistera,admin@gmail.com,Admin,Thu May 26 21:50:46 CEST 2022,NaN
+Cierre de Sesion,Joel Sistera,admin@gmail.com,Admin,Thu May 26 21:51:26 CEST 2022,NaN
+Inicio de Sesion,asas asas,se@,Tecnico,Thu May 26 21:52:32 CEST 2022,NaN
+Inicio de Sesion,asas asas,se@,Tecnico,Thu May 26 21:53:32 CEST 2022,NaN
+Cierre de Sesion,asas asas,se@,Tecnico,Thu May 26 21:53:44 CEST 2022,NaN
+Inicio de Sesion,asas asas,se@,Tecnico,Thu May 26 22:38:47 CEST 2022,NaN
+Cierre de Sesion,asas asas,se@,Tecnico,Thu May 26 22:38:58 CEST 2022,NaN
+Inicio de Sesion,Joel Sistera,admin@gmail.com,Admin,Thu May 26 22:39:09 CEST 2022,NaN
+Inicio de Sesion,Mario Perez,Mario@gmail.com,Usuario,Thu May 26 22:43:09 CEST 2022,NaN
+Nueva incidencia,Mario Perez,Mario@gmail.com,Usuario,Thu May 26 22:44:05 CEST 2022,54211
+Nueva incidencia,Mario Perez,Mario@gmail.com,Usuario,Thu May 26 22:44:39 CEST 2022,80322
+Inicio de Sesion,Joel Sistera,admin@gmail.com,Admin,Thu May 26 22:45:58 CEST 2022,NaN
+Asignacion incidencia,Ariel Urane,arielcocherane@gmail.com,Tecnico,Thu May 26 22:47:56 CEST 2022,54211
+Cierre de Sesion,Joel Sistera,admin@gmail.com,Admin,Thu May 26 22:48:35 CEST 2022,NaN
+Inicio de Sesion,Ariel Urane,arielcocherane@gmail.com,Tecnico,Thu May 26 22:48:48 CEST 2022,NaN
+Cierre de Sesion,Ariel Urane,arielcocherane@gmail.com,Tecnico,Thu May 26 22:49:33 CEST 2022,NaN
+Inicio de Sesion,Joel Sistera,admin@gmail.com,Admin,Thu May 26 22:55:53 CEST 2022,NaN
+Cierre de Sesion,Joel Sistera,admin@gmail.com,Admin,Thu May 26 22:56:14 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Aug 01 16:13:29 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Aug 01 16:13:29 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Aug 01 16:27:01 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Aug 01 16:27:01 COT 2022,NaN
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Aug 01 16:27:32 COT 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Mon Aug 01 16:27:50 COT 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Mon Aug 01 16:27:50 COT 2022,NaN
+Nueva incidencia,Matias Perez,jose@gmail.com,Usuario,Mon Aug 01 16:29:14 COT 2022,63144
+Nueva incidencia,Matias Perez,jose@gmail.com,Usuario,Mon Aug 01 16:35:24 COT 2022,83796
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Aug 01 16:55:56 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Aug 01 16:55:56 COT 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Mon Aug 01 17:16:07 COT 2022,NaN
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Mon Aug 01 17:19:29 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Aug 01 17:19:36 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Aug 01 17:30:30 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Aug 01 17:32:18 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Aug 01 18:17:16 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Aug 01 18:19:23 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Aug 01 18:22:22 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Aug 01 18:33:57 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Aug 01 18:36:21 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Aug 01 18:38:26 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Aug 01 18:38:26 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Aug 01 18:40:00 COT 2022,NaN
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Aug 01 18:49:35 COT 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Aug 01 18:49:41 COT 2022,NaN
+Cierre de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Aug 01 18:49:52 COT 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Mon Aug 01 18:49:57 COT 2022,NaN
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Mon Aug 01 18:50:06 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Aug 01 18:50:10 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Aug 01 19:18:20 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Aug 01 19:21:34 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Aug 01 19:26:00 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Aug 01 19:26:00 COT 2022,NaN
+Asignacion incidencia,Ariel Urane,arielcocherane@gmail.com,Tecnico,Mon Aug 01 19:33:42 COT 2022,93861
+Asignacion incidencia,Ariel Urane,arielcocherane@gmail.com,Tecnico,Mon Aug 01 19:39:20 COT 2022,85806
+Asignacion incidencia,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Aug 01 19:49:47 COT 2022,85806
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Aug 01 19:54:37 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Tue Aug 02 06:32:50 COT 2022,NaN
+Asignacion incidencia,Ariel Urane,arielcocherane@gmail.com,Tecnico,Tue Aug 02 06:35:10 COT 2022,85806
+Asignacion incidencia,Ariel Urane,arielcocherane@gmail.com,Tecnico,Tue Aug 02 06:38:30 COT 2022,1285
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Tue Aug 02 06:45:16 COT 2022,NaN
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Tue Aug 02 06:45:21 COT 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Tue Aug 02 06:45:25 COT 2022,NaN
+Nueva incidencia,Matias Perez,jose@gmail.com,Usuario,Tue Aug 02 06:46:15 COT 2022,3217
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Tue Aug 02 06:47:08 COT 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Tue Aug 02 06:48:15 COT 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Tue Aug 02 06:48:33 COT 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Tue Aug 02 06:48:49 COT 2022,NaN
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Tue Aug 02 06:49:16 COT 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Tue Aug 02 06:49:21 COT 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Tue Aug 02 06:51:43 COT 2022,NaN
+Cierre de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Tue Aug 02 06:54:15 COT 2022,NaN
+Inicio de Sesion,Mario Perez,Mario@gmail.com,Usuario,Tue Aug 02 06:54:32 COT 2022,NaN
+Nueva incidencia,Mario Perez,Mario@gmail.com,Usuario,Tue Aug 02 06:54:47 COT 2022,87691
+Cierre de Sesion,Mario Perez,Mario@gmail.com,Usuario,Tue Aug 02 06:54:52 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Tue Aug 02 06:54:58 COT 2022,NaN
+Asignacion incidencia,Efrain Garcia,efrain@gmail.com,Tecnico,Tue Aug 02 06:55:13 COT 2022,63144
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Tue Aug 02 06:55:16 COT 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Tue Aug 02 06:55:24 COT 2022,NaN
+Cierre de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Tue Aug 02 06:57:08 COT 2022,NaN
+Inicio de Sesion,Mario Perez,Mario@gmail.com,Usuario,Tue Aug 02 06:57:17 COT 2022,NaN
+Nueva incidencia,Mario Perez,Mario@gmail.com,Usuario,Tue Aug 02 06:57:34 COT 2022,94554
+Cierre de Sesion,Mario Perez,Mario@gmail.com,Usuario,Tue Aug 02 06:57:38 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Tue Aug 02 06:57:43 COT 2022,NaN
+Asignacion incidencia,Efrain Garcia,efrain@gmail.com,Tecnico,Tue Aug 02 06:57:52 COT 2022,94554
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Tue Aug 02 06:58:50 COT 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Tue Aug 02 06:58:59 COT 2022,NaN
+Cierre de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Tue Aug 02 06:59:58 COT 2022,NaN
+Inicio de Sesion,Mario Perez,Mario@gmail.com,Usuario,Tue Aug 02 07:00:07 COT 2022,NaN
+Inicio de Sesion,Mario Perez,Mario@gmail.com,Usuario,Tue Aug 02 07:32:29 COT 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Tue Aug 02 07:36:52 COT 2022,NaN
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Tue Aug 02 07:37:42 COT 2022,NaN
+Inicio de Sesion,Mario Perez,Mario@gmail.com,Usuario,Tue Aug 02 07:37:49 COT 2022,NaN
+Inicio de Sesion,Mario Perez,Mario@gmail.com,Usuario,Tue Aug 02 07:46:25 COT 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Tue Aug 02 07:51:03 COT 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Tue Aug 02 11:48:19 COT 2022,NaN
+Cierre de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Tue Aug 02 11:48:29 COT 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Tue Aug 02 11:48:47 COT 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Tue Aug 02 12:14:37 COT 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Tue Aug 02 12:39:42 COT 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Tue Aug 02 12:41:03 COT 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Tue Aug 02 12:42:40 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Tue Aug 02 14:56:01 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Tue Aug 02 15:01:18 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Tue Aug 02 15:04:52 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Tue Aug 02 15:08:51 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Tue Aug 02 15:11:46 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Tue Aug 02 15:16:35 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Tue Aug 02 15:22:36 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Tue Aug 02 15:24:22 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Tue Aug 02 15:44:50 COT 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Tue Aug 02 15:54:17 COT 2022,NaN
+Inicio de Sesion,Ariel Urane,arielcocherane@gmail.com,Tecnico,Tue Aug 02 15:54:51 COT 2022,NaN
+Cierre de Sesion,Ariel Urane,arielcocherane@gmail.com,Tecnico,Tue Aug 02 15:57:56 COT 2022,NaN
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Tue Aug 02 15:58:20 COT 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Fri Aug 05 14:40:45 COT 2022,NaN
+Nueva incidencia,Matias Perez,jose@gmail.com,Usuario,Fri Aug 05 14:41:04 COT 2022,95902
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Fri Aug 05 14:41:23 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Fri Aug 05 14:41:28 COT 2022,NaN
+Asignacion incidencia,Ariel Urane,arielcocherane@gmail.com,Tecnico,Fri Aug 05 14:41:45 COT 2022,95902
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Fri Aug 05 14:44:08 COT 2022,NaN
+Inicio de Sesion,Ariel Urane,arielcocherane@gmail.com,Tecnico,Fri Aug 05 14:44:22 COT 2022,NaN
+Cierre de Sesion,Ariel Urane,arielcocherane@gmail.com,Tecnico,Fri Aug 05 14:45:14 COT 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Fri Aug 05 14:45:20 COT 2022,NaN
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Fri Aug 05 14:45:36 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Fri Aug 05 14:45:43 COT 2022,NaN
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Fri Aug 05 14:46:02 COT 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Fri Aug 05 14:46:24 COT 2022,NaN
+Cierre de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Fri Aug 05 14:46:28 COT 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Aug 31 11:09:34 COT 2022,NaN
+Cierre de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Aug 31 11:10:02 COT 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Aug 31 11:10:14 COT 2022,NaN
+Inicio de Sesion,wwdsds sdsds,arielcocherane@gmail.com,Usuario,Wed Aug 31 14:49:09 COT 2022,NaN
+Inicio de Sesion,Ariel Cocherane,arielcocherane@gmail.com,Usuario,Wed Aug 31 16:40:14 COT 2022,NaN
+Inicio de Sesion,Ariel Cocherane,arielcocherane@gmail.com,Usuario,Wed Aug 31 17:00:40 COT 2022,NaN
+Inicio de Sesion,Ariel Cocherane,arielcocherane@gmail.com,Usuario,Wed Aug 31 17:05:03 COT 2022,NaN
+Inicio de Sesion,Ariel Cocherane,arielcocherane@gmail.com,Usuario,Wed Aug 31 17:10:42 COT 2022,NaN
+Inicio de Sesion,Ariel Cocherane,arielcocherane@gmail.com,Usuario,Wed Aug 31 17:12:03 COT 2022,NaN
+Inicio de Sesion,Ariel Cocherane,arielcocherane@gmail.com,Usuario,Wed Aug 31 17:27:05 COT 2022,NaN
+Inicio de Sesion,Ariel Cocherane,arielcocherane@gmail.com,Usuario,Wed Aug 31 17:31:10 COT 2022,NaN
+Cierre de Sesion,Ariel Cocherane,arielcocherane@gmail.com,Usuario,Wed Aug 31 17:33:48 COT 2022,NaN
+Inicio de Sesion,Ariel Cocherane,arielcocherane@gmail.com,Usuario,Wed Aug 31 17:33:57 COT 2022,NaN
+Inicio de Sesion,Ariel Cocherane,arielcocherane@gmail.com,Usuario,Wed Aug 31 17:34:43 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Wed Aug 31 17:41:16 COT 2022,NaN
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Wed Aug 31 17:42:15 COT 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Aug 31 17:42:22 COT 2022,NaN
+Nueva incidencia,Matias Perez,jose@gmail.com,Usuario,Wed Aug 31 17:42:35 COT 2022,43821
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Aug 31 17:42:41 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Wed Aug 31 17:42:46 COT 2022,NaN
+Asignacion incidencia,ariel cocherane,arielcocherane@gmail.com,Tecnico,Wed Aug 31 17:43:04 COT 2022,43821
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Wed Aug 31 17:53:35 COT 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Aug 31 17:53:40 COT 2022,NaN
+Cierre de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Aug 31 17:53:45 COT 2022,NaN
+Inicio de Sesion,ariel cocherane,arielcocherane@gmail.com,Tecnico,Wed Aug 31 17:53:50 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Wed Aug 31 18:14:24 COT 2022,NaN
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Wed Aug 31 18:16:01 COT 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Aug 31 18:16:06 COT 2022,NaN
+Cierre de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Aug 31 18:16:12 COT 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Aug 31 18:16:19 COT 2022,NaN
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Aug 31 18:17:05 COT 2022,NaN
+Inicio de Sesion,Carlos Barroso,carlos@test.com,Usuario,Wed Aug 31 18:17:18 COT 2022,NaN
+Cierre de Sesion,Carlos Barroso,carlos@test.com,Usuario,Wed Aug 31 18:17:24 COT 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Aug 31 18:17:29 COT 2022,NaN
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Aug 31 18:17:49 COT 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Aug 31 18:17:54 COT 2022,NaN
+Cierre de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Aug 31 18:18:01 COT 2022,NaN
+Inicio de Sesion,ariel cocherane,arielcocherane@gmail.com,Tecnico,Wed Aug 31 18:18:07 COT 2022,NaN
+Cierre de Sesion,ariel cocherane,arielcocherane@gmail.com,Tecnico,Wed Aug 31 18:18:23 COT 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Aug 31 18:21:11 COT 2022,NaN
+Cierre de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Aug 31 18:21:23 COT 2022,NaN
+Inicio de Sesion,ariel cocherane,arielcocherane@gmail.com,Tecnico,Wed Aug 31 18:22:37 COT 2022,NaN
+Cierre de Sesion,ariel cocherane,arielcocherane@gmail.com,Tecnico,Wed Aug 31 18:22:48 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Wed Aug 31 18:22:52 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Wed Aug 31 18:40:33 COT 2022,NaN
+Inicio de Sesion,ariel cocherane,arielcocherane@gmail.com,Tecnico,Thu Sep 01 09:34:01 COT 2022,NaN
+Inicio de Sesion,ariel cocherane,arielcocherane@gmail.com,Tecnico,Thu Sep 01 09:34:19 COT 2022,NaN
+Inicio de Sesion,ariel cocherane,arielcocherane@gmail.com,Tecnico,Thu Sep 01 09:34:36 COT 2022,NaN
+Inicio de Sesion,ariel cocherane,arielcocherane@gmail.com,Tecnico,Thu Sep 01 10:05:21 COT 2022,NaN
+Inicio de Sesion,ariel cocherane,arielcocherane@gmail.com,Tecnico,Thu Sep 01 10:05:57 COT 2022,NaN
+Cierre de Sesion,ariel cocherane,arielcocherane@gmail.com,Tecnico,Thu Sep 01 10:06:15 COT 2022,NaN
+Inicio de Sesion,Ariel Cocherane,arielcocherane@gmail.com,Usuario,Thu Sep 01 10:07:07 COT 2022,NaN
+Cierre de Sesion,Ariel Cocherane,arielcocherane@gmail.com,Usuario,Thu Sep 01 10:07:42 COT 2022,NaN
+Inicio de Sesion,Ariel Cocherane,arielcocherane@gmail.com,Usuario,Thu Sep 01 10:08:23 COT 2022,NaN
+Cierre de Sesion,Ariel Cocherane,arielcocherane@gmail.com,Usuario,Thu Sep 01 10:08:51 COT 2022,NaN
+Inicio de Sesion,null null,plinio@gmail.com,Admin,Fri Sep 02 10:03:31 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Fri Sep 02 10:08:03 COT 2022,NaN
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Fri Sep 02 10:08:28 COT 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Fri Sep 02 10:13:03 COT 2022,NaN
+Nueva incidencia,Matias Perez,jose@gmail.com,Usuario,Fri Sep 02 10:13:39 COT 2022,60285
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Fri Sep 02 10:14:12 COT 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Fri Sep 02 10:27:38 COT 2022,NaN
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Fri Sep 02 10:33:45 COT 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Fri Sep 02 10:33:49 COT 2022,NaN
+Cierre de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Fri Sep 02 10:34:22 COT 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Fri Sep 02 10:34:29 COT 2022,NaN
+Asignacion incidencia,Efrain Garcia,efrain@gmail.com,Tecnico,Fri Sep 02 10:34:37 COT 2022,60285
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Fri Sep 02 10:34:48 COT 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Fri Sep 02 10:34:53 COT 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Fri Sep 02 10:59:40 COT 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Fri Sep 02 11:01:27 COT 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Fri Sep 02 11:04:47 COT 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Fri Sep 02 11:07:19 COT 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 07 05:00:46 COT 2022,NaN
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 07 05:01:29 COT 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 07 05:01:34 COT 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 07 05:10:21 COT 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 07 15:22:42 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 07 15:25:57 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 07 15:37:57 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 07 15:41:54 CEST 2022,NaN
+Nueva incidencia,Matias Perez,jose@gmail.com,Usuario,Wed Sep 07 15:42:06 CEST 2022,1059
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 07 15:42:15 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 07 15:42:19 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 07 15:46:05 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 07 15:50:30 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 07 15:54:22 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 07 15:58:29 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 07 16:08:09 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 07 16:15:24 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 07 16:22:57 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 07 16:27:07 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 07 16:33:11 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 07 17:00:03 CEST 2022,NaN
+Cierre de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 07 17:00:09 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 07 17:00:13 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 07 17:04:06 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 07 17:14:00 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 07 17:22:14 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 07 17:28:55 CEST 2022,NaN
+Nueva incidencia,Matias Perez,jose@gmail.com,Usuario,Wed Sep 07 17:29:08 CEST 2022,55668
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 07 17:29:18 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Wed Sep 07 17:29:23 CEST 2022,NaN
+Asignacion incidencia,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 07 17:29:38 CEST 2022,1059
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Wed Sep 07 17:29:42 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 07 17:29:47 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 07 17:37:33 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 07 18:35:13 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 07 18:36:43 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 07 18:40:43 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 07 18:45:32 CEST 2022,NaN
+Cierre de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 07 18:47:34 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 07 18:47:40 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 07 18:55:55 CEST 2022,NaN
+Cierre de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 07 18:56:03 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 07 18:56:08 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 07 19:00:53 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 07 19:04:24 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 07 19:09:19 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 07 19:18:33 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 07 19:18:33 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Thu Sep 08 12:49:48 CEST 2022,NaN
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Thu Sep 08 13:00:21 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Thu Sep 08 13:00:32 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Thu Sep 08 13:26:30 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Thu Sep 08 13:34:15 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Thu Sep 08 13:35:43 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Thu Sep 08 13:53:14 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Thu Sep 08 13:56:13 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Thu Sep 08 17:38:07 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Thu Sep 08 18:25:45 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Sat Sep 10 14:36:09 CEST 2022,NaN
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Sat Sep 10 14:37:26 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 14:37:31 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 15:30:11 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 15:35:52 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 15:39:00 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 15:45:51 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 15:48:28 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 15:54:49 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 15:58:05 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 16:03:14 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 16:04:48 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 16:08:22 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 16:12:58 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 16:14:08 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 16:18:29 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 16:18:57 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 16:33:26 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 16:37:22 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 16:38:45 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 16:43:06 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 16:48:11 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 16:50:39 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 16:57:08 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 17:04:31 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 17:14:29 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 17:17:02 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 17:18:59 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 17:27:43 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 17:36:32 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 17:40:01 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 17:50:31 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 17:51:46 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 17:52:39 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 18:01:05 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 18:01:35 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 18:03:29 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 18:10:34 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 18:10:34 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 18:12:40 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 18:14:05 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 18:25:07 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 18:31:06 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 18:33:27 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 18:42:40 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 18:46:43 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 18:49:28 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 18:55:39 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 18:59:59 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 18:59:59 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 19:04:58 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 10 19:58:49 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sun Sep 11 11:29:54 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sun Sep 11 11:36:48 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sun Sep 11 11:53:33 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sun Sep 11 12:03:07 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sun Sep 11 12:13:00 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sun Sep 11 12:16:45 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sun Sep 11 12:23:35 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sun Sep 11 12:25:08 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sun Sep 11 12:43:37 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sun Sep 11 12:59:18 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sun Sep 11 13:07:17 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sun Sep 11 13:16:30 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sun Sep 11 13:18:04 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sun Sep 11 13:27:03 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sun Sep 11 13:41:22 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sun Sep 11 13:43:38 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sun Sep 11 13:58:16 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sun Sep 11 18:03:18 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sun Sep 11 18:05:56 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sun Sep 11 18:09:39 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sun Sep 11 18:13:12 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sun Sep 11 18:26:25 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sun Sep 11 18:30:24 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sun Sep 11 18:55:29 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sun Sep 11 19:03:28 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sun Sep 11 19:09:53 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sun Sep 11 19:18:46 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Sun Sep 11 19:22:15 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Sun Sep 11 20:04:48 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Sun Sep 11 20:08:37 CEST 2022,NaN
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Sun Sep 11 20:10:12 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Sun Sep 11 20:14:08 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Sun Sep 11 20:15:16 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 11:17:50 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 11:21:11 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 11:29:57 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 11:36:20 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 11:45:17 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 11:50:21 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 12:14:43 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 12:17:44 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 12:20:12 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 12:40:09 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 12:44:18 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 12:48:28 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 13:08:43 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 13:16:40 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 13:23:44 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 13:28:04 CEST 2022,NaN
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 13:33:50 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Mon Sep 12 13:33:54 CEST 2022,NaN
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Mon Sep 12 13:41:46 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Sep 12 13:45:03 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Sep 12 14:56:06 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 14:56:36 CEST 2022,NaN
+Asignacion incidencia,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Sep 12 14:56:48 CEST 2022,55668
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Sep 12 15:10:09 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Sep 12 15:13:45 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Sep 12 15:22:31 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Sep 12 15:27:03 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Sep 12 15:36:28 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Sep 12 15:42:54 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Sep 12 15:46:21 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Sep 12 16:02:09 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Sep 12 16:04:22 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Sep 12 16:11:14 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Sep 12 16:48:42 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 16:51:23 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 16:55:53 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 17:16:13 CEST 2022,NaN
+Asignacion incidencia,Pepe Gonzales,pepe@gmail.com,Tecnico,Mon Sep 12 17:23:10 CEST 2022,94554
+Asignacion incidencia,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Sep 12 17:24:07 CEST 2022,94554
+Asignacion incidencia,Pepe Gonzales,pepe@gmail.com,Tecnico,Mon Sep 12 17:27:15 CEST 2022,94554
+Asignacion incidencia,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Sep 12 17:32:57 CEST 2022,94554
+Asignacion incidencia,Pepe Gonzales,pepe@gmail.com,Tecnico,Mon Sep 12 17:35:21 CEST 2022,94554
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 17:49:38 CEST 2022,NaN
+Asignacion incidencia,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Sep 12 17:53:03 CEST 2022,94554
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Mon Sep 12 17:59:19 CEST 2022,NaN
+Nueva incidencia,Matias Perez,jose@gmail.com,Usuario,Mon Sep 12 17:59:40 CEST 2022,82807
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Mon Sep 12 18:01:46 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 18:01:53 CEST 2022,NaN
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 18:02:11 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 18:03:28 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 18:13:06 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 18:33:20 CEST 2022,NaN
+Asignacion incidencia,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Sep 12 18:33:32 CEST 2022,43821
+Asignacion incidencia,Pepe Gonzales,pepe@gmail.com,Tecnico,Mon Sep 12 18:33:51 CEST 2022,43821
+Asignacion incidencia,Pepe Gonzales,pepe@gmail.com,Tecnico,Mon Sep 12 18:34:09 CEST 2022,82807
+Asignacion incidencia,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Sep 12 18:34:21 CEST 2022,82807
+Asignacion incidencia,Pepe Gonzales,pepe@gmail.com,Tecnico,Mon Sep 12 18:34:27 CEST 2022,82807
+Asignacion incidencia,Pepe Gonzales,pepe@gmail.com,Tecnico,Mon Sep 12 18:35:56 CEST 2022,94554
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 18:54:43 CEST 2022,NaN
+Asignacion incidencia,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Sep 12 18:54:56 CEST 2022,82807
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 19:12:29 CEST 2022,NaN
+Asignacion incidencia,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Sep 12 19:12:40 CEST 2022,82807
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 19:24:06 CEST 2022,NaN
+Asignacion incidencia,Pepe Gonzales,pepe@gmail.com,Tecnico,Mon Sep 12 19:24:37 CEST 2022,43821
+Asignacion incidencia,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Sep 12 19:24:48 CEST 2022,43821
+Asignacion incidencia,Pepe Gonzales,pepe@gmail.com,Tecnico,Mon Sep 12 19:24:54 CEST 2022,43821
+Asignacion incidencia,Pepe Gonzales,pepe@gmail.com,Tecnico,Mon Sep 12 19:25:31 CEST 2022,43821
+Asignacion incidencia,Pepe Gonzales,pepe@gmail.com,Tecnico,Mon Sep 12 19:26:30 CEST 2022,43821
+Asignacion incidencia,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Sep 12 19:27:04 CEST 2022,43821
+Asignacion incidencia,Pepe Gonzales,pepe@gmail.com,Tecnico,Mon Sep 12 19:27:30 CEST 2022,43821
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 19:30:33 CEST 2022,NaN
+Asignacion incidencia,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Sep 12 19:30:47 CEST 2022,94554
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 20:11:46 CEST 2022,NaN
+Asignacion incidencia,Pepe Gonzales,pepe@gmail.com,Tecnico,Mon Sep 12 20:12:01 CEST 2022,94554
+Asignacion incidencia,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Sep 12 20:12:17 CEST 2022,94554
+Asignacion incidencia,Pepe Gonzales,pepe@gmail.com,Tecnico,Mon Sep 12 20:14:15 CEST 2022,94554
+Asignacion incidencia,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Sep 12 20:14:53 CEST 2022,94554
+Asignacion incidencia,Pepe Gonzales,pepe@gmail.com,Tecnico,Mon Sep 12 20:15:40 CEST 2022,94554
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 22:09:18 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 22:20:25 CEST 2022,NaN
+Asignacion incidencia,Pepe Gonzales,pepe@gmail.com,Tecnico,Mon Sep 12 22:20:43 CEST 2022,43821
+Asignacion incidencia,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Sep 12 22:20:52 CEST 2022,43821
+Asignacion incidencia,Pepe Gonzales,pepe@gmail.com,Tecnico,Mon Sep 12 22:21:13 CEST 2022,82807
+Asignacion incidencia,Efrain Garcia,efrain@gmail.com,Tecnico,Mon Sep 12 22:21:29 CEST 2022,82807
+Asignacion incidencia,Pepe Gonzales,pepe@gmail.com,Tecnico,Mon Sep 12 22:26:42 CEST 2022,82807
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 22:43:06 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 22:44:54 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 22:58:55 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 23:00:52 CEST 2022,NaN
+Asignacion incidencia,Pepe Gonzales,pepe@gmail.com,Tecnico,Mon Sep 12 23:02:02 CEST 2022,94554
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 12 23:07:53 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Tue Sep 13 23:41:47 CEST 2022,NaN
+Asignacion incidencia,Efrain Garcia,efrain@gmail.com,Tecnico,Tue Sep 13 23:42:02 CEST 2022,94554
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Tue Sep 13 23:44:04 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 14 11:59:53 CEST 2022,NaN
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 14 12:00:18 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 14 12:00:23 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 14 12:03:59 CEST 2022,NaN
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 14 12:04:27 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 14 13:05:42 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 14 13:28:52 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 14 13:33:21 CEST 2022,NaN
+Cierre de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 14 13:34:14 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 14 13:39:46 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 14 13:43:36 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 14 13:44:37 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 14 15:49:19 CEST 2022,NaN
+Cierre de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 14 15:49:25 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Wed Sep 14 15:49:30 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Wed Sep 14 16:00:35 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Wed Sep 14 16:05:18 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Wed Sep 14 16:07:31 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Wed Sep 14 16:09:29 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Wed Sep 14 16:13:46 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Wed Sep 14 16:22:43 CEST 2022,NaN
+Asignacion incidencia,Pepe Gonzales,pepe@gmail.com,Tecnico,Wed Sep 14 16:28:56 CEST 2022,94554
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Wed Sep 14 16:29:28 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 14 16:32:35 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 14 17:17:52 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 14 17:34:19 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 14 17:55:30 CEST 2022,NaN
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 14 18:13:27 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 14 18:13:34 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 14 18:47:15 CEST 2022,NaN
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 14 18:47:23 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 14 18:47:27 CEST 2022,NaN
+Cierre de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 14 19:01:35 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Wed Sep 14 19:01:40 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Thu Sep 15 17:13:52 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Thu Sep 15 17:16:35 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Thu Sep 15 17:18:38 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Thu Sep 15 17:20:23 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Thu Sep 15 17:21:39 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Thu Sep 15 17:30:58 CEST 2022,NaN
+Cierre de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Thu Sep 15 17:32:47 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Thu Sep 15 17:33:10 CEST 2022,NaN
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Thu Sep 15 17:35:04 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Thu Sep 15 17:35:25 CEST 2022,NaN
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Thu Sep 15 17:37:17 CEST 2022,NaN
+Inicio de Sesion,Ariel Cocherane,arielcocherane@gmail.com,Usuario,Thu Sep 15 17:38:33 CEST 2022,NaN
+Cierre de Sesion,Ariel Cocherane,arielcocherane@gmail.com,Usuario,Thu Sep 15 17:40:19 CEST 2022,NaN
+Inicio de Sesion,Ariel Cocherane,arielcocherane@gmail.com,Usuario,Thu Sep 15 18:40:30 CEST 2022,NaN
+Inicio de Sesion,Ariel Cocherane,arielcocherane@gmail.com,Usuario,Thu Sep 15 18:40:55 CEST 2022,NaN
+Inicio de Sesion,Ariel Cocherane,arielcocherane@gmail.com,Usuario,Thu Sep 15 18:41:39 CEST 2022,NaN
+Cierre de Sesion,Ariel Cocherane,arielcocherane@gmail.com,Usuario,Thu Sep 15 18:42:32 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Thu Sep 15 19:19:58 CEST 2022,NaN
+Cierre de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Thu Sep 15 19:20:03 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Thu Sep 15 19:22:36 CEST 2022,NaN
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Thu Sep 15 19:23:17 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Thu Sep 15 19:24:15 CEST 2022,NaN
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Thu Sep 15 19:25:36 CEST 2022,NaN
+Inicio de Sesion,ariel cocherane,arielcocherane@gmail.com,Tecnico,Thu Sep 15 19:25:41 CEST 2022,NaN
+Cierre de Sesion,ariel cocherane,arielcocherane@gmail.com,Tecnico,Thu Sep 15 19:25:47 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Thu Sep 15 19:25:52 CEST 2022,NaN
+Asignacion incidencia,ariel cocherane,arielcocherane@gmail.com,Tecnico,Thu Sep 15 19:26:00 CEST 2022,94554
+Asignacion incidencia,ariel cocherane,arielcocherane@gmail.com,Tecnico,Thu Sep 15 19:26:04 CEST 2022,43821
+Asignacion incidencia,Efrain Garcia,efrain@gmail.com,Tecnico,Thu Sep 15 19:27:21 CEST 2022,94554
+Asignacion incidencia,Efrain Garcia,efrain@gmail.com,Tecnico,Thu Sep 15 19:27:23 CEST 2022,43821
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Thu Sep 15 19:27:58 CEST 2022,NaN
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Thu Sep 15 19:32:07 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Thu Sep 15 19:33:11 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Thu Sep 15 19:36:20 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Thu Sep 15 19:37:40 CEST 2022,NaN
+Cierre de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Thu Sep 15 19:37:56 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Thu Sep 15 19:38:01 CEST 2022,NaN
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Thu Sep 15 19:41:17 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Fri Sep 16 06:54:28 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Fri Sep 16 06:58:28 CEST 2022,NaN
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Fri Sep 16 07:09:21 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Fri Sep 16 07:10:57 CEST 2022,NaN
+Cierre de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Fri Sep 16 07:19:13 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Fri Sep 16 10:22:23 CEST 2022,NaN
+Asignacion incidencia,Pepe Gonzales,pepe@gmail.com,Tecnico,Fri Sep 16 10:22:41 CEST 2022,43821
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Fri Sep 16 10:23:42 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Fri Sep 16 10:24:30 CEST 2022,NaN
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Fri Sep 16 10:24:34 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Fri Sep 16 10:25:00 CEST 2022,NaN
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Fri Sep 16 10:26:26 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 17 16:59:14 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Sat Sep 17 18:09:13 CEST 2022,NaN
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Sat Sep 17 18:23:48 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Sat Sep 17 18:24:22 CEST 2022,NaN
+Cierre de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Sat Sep 17 18:34:00 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Sat Sep 17 18:46:12 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Wed Sep 21 13:26:43 CEST 2022,NaN
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Wed Sep 21 13:27:21 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 26 19:59:50 CEST 2022,NaN
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 26 20:03:53 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 26 20:04:05 CEST 2022,NaN
+Asignacion incidencia,jose lopez,joselopez@gmaild.com,Tecnico,Mon Sep 26 20:07:15 CEST 2022,1059
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Sep 26 20:08:39 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 28 17:43:41 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Wed Sep 28 17:45:01 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Wed Sep 28 17:45:03 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Wed Sep 28 17:51:16 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Wed Sep 28 17:52:10 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 28 17:58:53 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Wed Sep 28 17:59:31 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 28 18:19:17 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 28 18:21:14 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 28 18:26:42 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Wed Sep 28 18:26:55 CEST 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 28 18:27:38 CEST 2022,NaN
+Nueva incidencia,Matias Perez,jose@gmail.com,Usuario,Wed Sep 28 18:29:32 CEST 2022,95787
+Asignacion incidencia,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 28 18:35:12 CEST 2022,95787
+Inicio de Sesion,ariel cocherane,arielcocherane@gmail.com,Tecnico,Wed Sep 28 19:22:34 CEST 2022,NaN
+Inicio de Sesion,ariel cocherane,arielcocherane@gmail.com,Tecnico,Wed Sep 28 19:23:15 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 28 19:24:08 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Wed Sep 28 19:37:52 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Wed Sep 28 19:38:50 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Wed Sep 28 19:41:03 CEST 2022,NaN
+Nueva incidencia,Matias Perez,jose@gmail.com,Usuario,Wed Sep 28 19:43:18 CEST 2022,32322
+Asignacion incidencia,ariel cocherane,arielcocherane@gmail.com,Tecnico,Wed Sep 28 19:43:26 CEST 2022,32322
+Asignacion incidencia,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 28 19:48:01 CEST 2022,32322
+Asignacion incidencia,ariel cocherane,arielcocherane@gmail.com,Tecnico,Wed Sep 28 19:48:32 CEST 2022,32322
+Inicio de Sesion,ariel cocherane,arielcocherane@gmail.com,Tecnico,Wed Sep 28 19:49:21 CEST 2022,NaN
+Asignacion incidencia,Efrain Garcia,efrain@gmail.com,Tecnico,Wed Sep 28 19:51:37 CEST 2022,32322
+Inicio de Sesion,pepe pepe,pepe@pepe.com,Usuario,Thu Sep 29 10:14:01 CEST 2022,NaN
+Nueva incidencia,pepe pepe,pepe@pepe.com,Usuario,Thu Sep 29 10:15:23 CEST 2022,13467
+Inicio de Sesion,Antonio Juan Gonzalez Izquierdo,antoniopokem@gmail.com,Usuario,Thu Sep 29 10:16:32 CEST 2022,NaN
+Inicio de Sesion,Gilca hs,gilcarlos.hermoso@fernando3martos.com,Usuario,Thu Sep 29 10:17:11 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Thu Sep 29 10:30:41 CEST 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Thu Oct 13 10:36:04 CEST 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Sun Nov 20 23:43:49 CET 2022,NaN
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Sun Nov 20 23:45:00 CET 2022,NaN
+Inicio de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Sun Nov 20 23:45:31 CET 2022,NaN
+Cierre de Sesion,Efrain Garcia,efrain@gmail.com,Tecnico,Sun Nov 20 23:45:52 CET 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Mon Nov 21 07:07:40 CET 2022,NaN
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Mon Nov 21 07:08:44 CET 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Nov 21 07:08:51 CET 2022,NaN
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Nov 21 07:10:37 CET 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Nov 21 07:11:25 CET 2022,NaN
+Inicio de Sesion,Ariel Cocherarane,arielefrain.cocherane@fernando3martos.com,Usuario,Mon Nov 21 13:14:57 CET 2022,NaN
+Nueva incidencia,Ariel Cocherarane,arielefrain.cocherane@fernando3martos.com,Usuario,Mon Nov 21 13:17:14 CET 2022,16123
+Cierre de Sesion,Ariel Cocherarane,arielefrain.cocherane@fernando3martos.com,Usuario,Mon Nov 21 13:18:36 CET 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Nov 21 13:18:43 CET 2022,NaN
+Asignacion incidencia,jose lopez,joselopez@gmaild.com,Tecnico,Mon Nov 21 13:19:58 CET 2022,16123
+Cierre de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Nov 21 13:21:14 CET 2022,NaN
+Inicio de Sesion,Matias Perez,jose@gmail.com,Usuario,Mon Nov 21 13:21:18 CET 2022,NaN
+Cierre de Sesion,Matias Perez,jose@gmail.com,Usuario,Mon Nov 21 13:21:42 CET 2022,NaN
+Inicio de Sesion,jose lopez,joselopez@gmaild.com,Tecnico,Mon Nov 21 13:21:50 CET 2022,NaN
+Cierre de Sesion,jose lopez,joselopez@gmaild.com,Tecnico,Mon Nov 21 13:24:55 CET 2022,NaN
+Inicio de Sesion,Ariel Cocherarane,arielefrain.cocherane@fernando3martos.com,Usuario,Mon Nov 21 13:25:07 CET 2022,NaN
+Inicio de Sesion,Plinio Rosas,plinio@gmail.com,Admin,Mon Nov 21 14:07:10 CET 2022,NaN
+Asignacion incidencia,jose lopez,arielefrain.cocherane@fernando3martos.com,Tecnico,Mon Nov 21 14:12:53 CET 2022,94554
+Asignacion incidencia,jose lopez,arielefrain.cocherane@fernando3martos.com,Tecnico,Mon Nov 21 14:12:56 CET 2022,43821

@@ -1,0 +1,51 @@
+@font-face {
+    font-family: Qwitcher Grypen;
+    src: url( '../font/PermanentMarker-Regular.ttf' );
+}
+
+/* set backgroud by TokenValidate.jsp*/
+#bg-imgen-token{
+    background-image: url('../img/bg-token.svg');
+    background-size: 100% 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100%;
+    height: 100%;
+}
+
+/* set backgroud by LogIn.jsp*/
+#bg-imgen-loguin{
+    background-image: url('../img/bg-login.svg');
+    background-size: 100% 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100%;
+    height: 100%;
+}
+
+
+/* set backgroud by forgotPassword.html*/
+#bg-imgen-pass-forgot{
+    background-image: url('../img/bg-passforgot.svg');
+    background-size: 100% 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100%;
+    height: 100%;
+}
+
+/* set backgroud by register.jsp*/
+#bg-imgen-register{
+    background-image: url('../img/bg-register.svg');
+    background-size: 100% 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100%;
+    height: 100%;
+}
+
+
+.title-main{
+    font-family: Qwitcher Grypen;
+}
+

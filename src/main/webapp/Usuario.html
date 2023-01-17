@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Bienvenido Usuario - Dashboard</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
+
+
+    <!-- Custom fonts for this template-->
+    <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link
+            href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
+            rel="stylesheet">
+
+    <!-- Custom styles for this template-->
+    <link href="css/sb-admin-2.min.css" rel="stylesheet">
+
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+
+</head>
+
+
+<body id="page-top">
+
+<!-- check if the user is logging-->
+
+<!--####################### java inicio #######################--
+<%
+// instance of GestionApp MVC
+GestionAPP app = new GestionAPP();
+
+// instance of usuario
+Usuario usuario = null;
+
+// check if user is instance of Usuario
+if( session.getAttribute("user") != null && session.getAttribute("user") instanceof Usuario ){
+// set the user login like Usuario and token validated
+usuario = (Usuario) session.getAttribute("user");
+
+// check if user is null 2 time an check if token has been validated
+if ( usuario != null  && usuario.isTokenValidated() ){
+
+
+%>
+--####################### java fin #######################-->
+
+<!-- Page Wrapper -->
+<div id="wrapper">
+
+    <!-- Sidebar -->
+    <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
+
+        <!-- Sidebar - Brand -->
+        <a class="sidebar-brand d-flex align-items-center justify-content-center" href="dashboard.jsp">
+            <div class="sidebar-brand-icon rotate-n-15">
+                <i class="fas fa-cat"></i>
+            </div>
+            <div class="sidebar-brand-text mx-3">FernTickets</div>
+        </a>
+
+        <!-- Divider -->
+        <hr class="sidebar-divider my-0">
+
+        <!-- Nav Item - Dashboard -->
+        <li class="nav-item active text-center ali my-3">
+            <!-- Button trigger modal -->
+            <button type="button" class="btn btn-primary " data-toggle="modal" data-target="#exampleModalCenter">
+                <i class="bi bi-plus-circle-fill text-gray-500"></i>
+                <span>Reportar una incidencia</span>
+            </button>
+
+            <!-- Modal pop out add task-->
+            <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header bg-primary">
+                            <h5 class="modal-title text-white" id="exampleModalLongTitle"><b>Reportar una incidencia</b></h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <div class="id-alert-report alert alert-warning" role="alert">
+                                ¡Describe brevemente el reporte!
+                              </div>
+                              
+                            <!-- body of form -->
+                            <form class="formAddTask" id="IdFormAddTask" action="#" novalidate>
+                                <div class="form-group ">
+                                    <label class="form-label fw-bold" >Description del reporte</label>
+                                    <input type="text" class="form-control" name="description" minlength="1" maxlength="40" placeholder="Describe el reporte" pattern="[A-Za-z]" required>
+                                </div>
+                                <label class="form-label fw-bold" for="customRange2">Prioridad del reporte</label>
+                                <div class="range">
+                                    <input type="range" name="prioridad" class="form-range"  min="1" max="10" id="customRange2" />
+                                </div>
+                                <!-- BEGIN Number para el range scale -->
+                                <div class="d-flex justify-content-between">
+                                    <div >1</div>
+                                    <div >2</div>
+                                    <div >3</div>
+                                    <div >4</div>
+                                    <div >5</div>
+                                    <div >6</div>
+                                    <div >7</div>
+                                    <div >8</div>
+                                    <div >9</div>
+                                    <div >10</div>
+                                </div>
+                                <!-- END Number para el range scale -->
+
+                                <div class="float-start fw-bold">Minima</div>
+                                <div class="float-end fw-bold">Maxima</div>
+
+                            </form>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            <button type="button" class="btn btn-primary" onclick="addTask('IdFormAddTask')" >Reportar</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </li>
+
+        <!-- Divider -->
+        <hr class="sidebar-divider text-light bg-black">
+
+        <!-- Heading  ORDER TASK BY -->
+        <div class="sidebar-heading">
+            Consultar mis incidencias
+        </div>
+
+        <!-- Nav Item - SEARCHING CURRENT DAY  -->
+        <li class="nav-item">
+            <a class="nav-link" href="#" onclick="todayTasks()">
+                <i class="fas fa-duotone fa-calendar-day"></i>
+                <span>Incidencias abiertas</span></a>
+        </li>
+
+        <!-- Nav Item - SEARCHING CURRENT MONTH  -->
+        <li class="nav-item">
+            <a class="nav-link" href="#" onclick="monthTasks()">
+                <i class="fas fa-duotone fa-calendar-day"></i>
+                <span>Incidencias cerradas</span></a>
+        </li>
+
+        
+
+
+        
+
+
+        <!-- Divider -->
+        <hr class="sidebar-divider d-none d-md-block">
+
+        <!-- Sidebar Toggler (Sidebar) -->
+        <div class="text-center d-none d-md-inline">
+            <button class="rounded-circle border-0" id="sidebarToggle"></button>
+        </div>
+
+
+
+    </ul>
+    <!-- End of Sidebar -->
+
+    <!-- Content Wrapper -->
+    <div id="content-wrapper" class="d-flex flex-column">
+
+        <!-- Main Content -->
+        <div id="content">
+
+            <!-- Topbar -->
+            <nav class="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow">
+
+                <!-- Sidebar Toggle (Topbar) -->
+                <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle mr-3">
+                    <i class="fa fa-bars"></i>
+                </button>
+
+                <!-- Topbar Search -->
+                <form id="formterm"
+                      class="d-none d-sm-inline-block form-inline mr-auto ml-md-3 my-2 my-md-0 mw-100 navbar-search">
+                    <div class="input-group">
+                        <input type="text" class="form-control bg-light border-0 small" placeholder="Search for term..."
+                               name="termFilter" aria-label="Search" aria-describedby="basic-addon2">
+                        <div class="input-group-append">
+                            <button class="btn btn-primary" type="submit">
+                                <i class="fas fa-search fa-sm"></i>
+                            </button>
+                        </div>
+                    </div>
+                </form>
+
+                <!-- Topbar Navbar -->
+                <ul class="navbar-nav ml-auto">
+
+                    <!-- Nav Item - Search Dropdown (Visible Only XS) -->
+                    <li class="nav-item dropdown no-arrow d-sm-none">
+                        <a class="nav-link dropdown-toggle" href="#" id="searchDropdown" role="button"
+                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <i class="fas fa-search fa-fw"></i>
+                        </a>
+                        <!-- Dropdown - Messages -->
+                        <div class="dropdown-menu dropdown-menu-right p-3 shadow animated--grow-in"
+                             aria-labelledby="searchDropdown">
+                            <form class="form-inline mr-auto w-100 navbar-search">
+                                <div class="input-group">
+                                    <input type="text" class="form-control bg-light border-0 small"
+                                           placeholder="Search for..." aria-label="Search"
+                                           aria-describedby="basic-addon2">
+                                    <div class="input-group-append">
+                                        <button class="btn btn-primary" type="button">
+                                            <i class="fas fa-search fa-sm"></i>
+                                        </button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </li>
+
+                    <!-- Nav Item - Alerts -->
+                    <li class="nav-item dropdown no-arrow mx-1">
+                        <a class="nav-link dropdown-toggle" href="#" id="alertsDropdown" role="button"
+                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <i class="fas fa-bell fa-fw"></i>
+                            <!-- Counter - Alerts -->
+                            <span class="badge badge-danger badge-counter">3+</span>
+                        </a>
+                        <!-- Dropdown - Alerts -->
+                        <div class="dropdown-list dropdown-menu dropdown-menu-right shadow animated--grow-in"
+                             aria-labelledby="alertsDropdown">
+                            <h6 class="dropdown-header">
+                                Alerts Center
+                            </h6>
+                            <a class="dropdown-item d-flex align-items-center" href="#">
+                                <div class="mr-3">
+                                    <div class="icon-circle bg-primary">
+                                        <i class="fas fa-file-alt text-white"></i>
+                                    </div>
+                                </div>
+                                <div>
+                                    <div class="small text-gray-500">December 12, 2019</div>
+                                    <span class="font-weight-bold">A new monthly report is ready to download!</span>
+                                </div>
+                            </a>
+                            <a class="dropdown-item d-flex align-items-center" href="#">
+                                <div class="mr-3">
+                                    <div class="icon-circle bg-success">
+                                        <i class="fas fa-donate text-white"></i>
+                                    </div>
+                                </div>
+                                <div>
+                                    <div class="small text-gray-500">December 7, 2019</div>
+                                    $290.29 has been deposited into your account!
+                                </div>
+                            </a>
+                            <a class="dropdown-item d-flex align-items-center" href="#">
+                                <div class="mr-3">
+                                    <div class="icon-circle bg-warning">
+                                        <i class="fas fa-exclamation-triangle text-white"></i>
+                                    </div>
+                                </div>
+                                <div>
+                                    <div class="small text-gray-500">December 2, 2019</div>
+                                    Spending Alert: We've noticed unusually high spending for your account.
+                                </div>
+                            </a>
+                            <a class="dropdown-item text-center small text-gray-500" href="#">Show All Alerts</a>
+                        </div>
+                    </li>
+
+
+
+                    <div class="topbar-divider d-none d-sm-block"></div>
+
+                    <!-- Nav Item - User Information -->
+                    <li class="nav-item dropdown no-arrow">
+                        <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button"
+                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+
+                            <span class="mr-2 d-none d-lg-inline text-gray-600 small">
+
+                                <!-- BORARA -->
+                                Ariel Cocherane<!-- BORARA -->
+                                <!-- Show out the name of user -->
+                                <!--####################### java inicio #######################--
+                            <% out.println( usuario.getNombre()+" "+usuario.getApel() );%>
+                            --####################### java fin #######################-->
+                            </span>
+                            <img class="img-profile rounded-circle"
+                                 src="img/undraw_profile.svg">
+                        </a>
+                        <!-- Dropdown - User Information -->
+                        <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in"
+                             aria-labelledby="userDropdown">
+
+                             <!-- button para ver perfil del usuario -->
+                            <button class="dropdown-item" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasPerfil" aria-controls="offcanvasRight">
+                                <i class="fas fa-frog fa-sm fa-fw mr-2 text-gray-400"></i>
+                                Ver perfil
+                            </button>
+
+                            <div class="dropdown-divider"></div>
+                            
+                            <!-- button para restablecer la clave mediante un offcanvas -->
+                            <button class="dropdown-item" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight">
+                                <i class="fas fa-solid fa-unlock fa-sm fa-fw mr-2 text-gray-400"></i>
+                                Cambiar contraseña
+                            </button>
+
+                            <div class="dropdown-divider"></div>
+
+                            <!-- button para hecer logout -->
+                            <form action="/schedule/LogOut" method="post">
+                                <input type="hidden" name="logout" value="true">
+                                <button type="submit" class="dropdown-item" >
+                                    <i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>
+                                    LogOut
+                                </button>
+                            </form>
+
+                            
+                            
+                            
+
+                        </div>
+                    </li>
+
+                </ul>
+
+            </nav>
+            <!-- End of Topbar -->
+
+            <!-- Begin Page Content -->
+            <div class="container-fluid">
+
+                <!-- Page Heading -->
+                <div class="d-sm-flex align-items-center justify-content-between mb-4">
+                    <h1 class="h3 mb-0 text-gray-800">Panel de sus incidencias reportadas</h1>
+                </div>
+
+                <!-- Content Row -->
+                <div class="row py-3">
+
+                    <!-- Check if there are not Incident  BEGIN --%>
+
+                    <%--####################### java inicio #######################--
+                    <%
+                    // check if there are incident Open
+                    if ( !app.buscaIncidenciasAbiertasbyUsuario( usuario.getId() ).isEmpty() ){
+
+
+                    %>
+                    --####################### java inicio #######################-->
+
+                    <!-- First Task Card Example -->
+                    <div class="col-md-6 mb-4">
+                        <div class="card border-left-primary shadow h-100 py-2">
+                            <div class="card-body">
+                                <div class="row no-gutters align-items-center">
+                                    <div class="col mr-2">
+                                        <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
+                                            Incidencias sin asignar ...</div>
+                                        <div class="h6 mb-0 font-weight-bold text-gray-800">
+
+                                            8 <!-- BORRAR --%>
+                      <%--####################### java inicio #######################--
+                      <%= app.incidenciasNoAsignadasbyUsuario( usuario.getId() )  %>
+                      <%--####################### java Fin #######################-->
+
+                                        </div>
+                                    </div>
+                                    <div class="col-auto">
+                                        <i class="fas fa-calendar fa-2x text-gray-300"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Second Task Card Example if is empty -->
+                    <div class="col-md-6 mb-4">
+                        <div class="card border-left-primary shadow h-100 py-2">
+                            <div class="card-body">
+                                <div class="row no-gutters align-items-center">
+                                    <div class="col mr-2">
+                                        <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
+                                            Incidencias asignadas ...</div>
+                                        <div class="h6 mb-0 font-weight-bold text-gray-800">
+
+                                            8 <!-- BORRAR -->
+                                            <!--####################### java inicio #######################--
+                                            <%= app.incidenciasAsignadasbyUsuario( usuario.getId() )  %>
+                                            <%--####################### java Fin #######################-->
+                                        </div>
+                                    </div>
+                                    <div class="col-auto">
+                                        <i class="fas fa-calendar fa-2x text-gray-300"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!--####################### java Fin #######################--
+                    <% }else{
+                    out.println(
+                    "<div class=\"col\" >\n" +
+                    "                            <div class=\"card border-left-primary shadow h-100 py-5 text-center\">\n" +
+                    "                                <p class=\"h4\">\n" +
+                      "                                    <b> There are no Tasks..  </b>\n" +
+                      "                                    <i class="fa fa-calendar-week\"></i>\n" +
+                      "                                </p>\n" +
+                    "                            </div>\n" +
+                    "                        </div>"
+                  );
+
+                  }
+                  %>
+                  --####################### java Fin #######################-->
+
+                </div>
+
+
+
+
+                <!-- BEGIN Content Row Incidencias data-->
+
+                <div class="row">
+
+                    <!-- BEGIN Incidencia short data -->
+                    <div class="col-lg-6 pb-3 pb-md-4">
+                        <div class="card shadow-lg border-primary">
+                            <div class="card-header text-center bg-primary text-light fs-5 fw-bold">
+                                Incidencia
+                            </div>
+                            <div class="card-body text-light">
+                                <ul class="list-group list-group-flush">
+                                    <li class="list-group-item ">Incidencia con ID :</li>
+                                    <li class="list-group-item ">Comentario :</li>
+                                    <li class="list-group-item ">Prioridad :</li>
+                                    <li class="list-group-item ">Fecha de la creacion :</li>
+                                    <li class="list-group-item ">Estado :
+                                        <div class="progress">
+                                            <div class="progress-bar bg-success progress-bar-striped progress-bar-animated text-center" role="progressbar" aria-label="Animated striped example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 30%">
+                                                Asignada
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div class="d-flex justify-content-center mx-auto py-1">
+                                    <button class="btn btn-primary" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal" >Mas informacion ...</button>
+                                </div>
+                            </div>
+                            <div class="card-footer text-center text-muted">
+                                2 days ago
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- END Incidencia short data -->
+
+                    <!-- BEGIN Incidencia long data Modal -->
+                    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+                            <div class="modal-content">
+                                <div class="modal-header bg-secondary text-white">
+                                    <h5 class="modal-title fw-bold text-center ">Incidencia detallada</h5>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                </div>
+                                <!-- BEGIN Cuerpo de la incidencia detallada -->
+                                <div class="modal-body">
+                                    <div class="card-body text-light">
+                                        <ul class="list-group list-group-flush">
+                                            <li class="list-group-item ">Incidencia con ID :</li>
+                                            <li class="list-group-item ">Comentario :</li>
+                                            <li class="list-group-item ">Prioridad :</li>
+                                            <li class="list-group-item ">Fecha de la creacion :</li>
+                                            <li class="list-group-item ">Dias desde que se abrio :</li>
+                                            <li class="list-group-item ">Estado :
+                                                <div class="progress">
+                                                    <div class="progress-bar bg-success progress-bar-striped progress-bar-animated text-center fw-semibold" role="progressbar" aria-label="Animated striped example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%">
+                                                        Asignada
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <!-- BEGIN datos de la incidencia por el tecnico -->
+
+                                            <li class="list-group-item ">Tecnico asignado :</li>
+                                            <li class="list-group-item ">Comentarios del tecnico :</li>
+                                            <li class="list-group-item ">Dias que tardo en resolver :</li>
+
+                                            <!-- END datos de la incidencia por el tecnico -->
+
+                                        </ul>
+                                    </div>
+                                </div>
+                                <!-- END Cuerpo de la incidencia detallada -->
+                                <div class="modal-footer bg-transparent">
+                                    <button type="button" class="btn btn-danger fw-bold" data-bs-dismiss="modal">Close</button>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <!-- END Incidencia long data Modal -->
+
+                <!-- END Content Row Incidencias data-->
+
+
+
+
+            </div>
+            <!-- /.container-fluid -->
+
+        </div>
+        <!-- End of Main Content -->
+
+        <!-- Footer -->
+        <footer class="sticky-footer bg-white">
+            <div class="container my-auto">
+                <div class="copyright text-center my-auto">
+                    <span>Copyright &copy; Forest Production by Ariel 2021</span>
+                </div>
+            </div>
+        </footer>
+        <!-- End of Footer -->
+
+    </div>
+    <!-- End of Content Wrapper -->
+
+</div>
+<!-- End of Page Wrapper -->
+
+<!-- Scroll to Top Button-->
+<a class="scroll-to-top rounded" href="#page-top">
+    <i class="fas fa-angle-up"></i>
+</a>
+
+
+
+<!-- Bootstrap core JavaScript-->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<!-- Core plugin JavaScript-->
+<script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+<!-- Custom scripts for all pages-->
+<script src="js/sb-admin-2.min.js"></script>
+
+
+<script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+
+
+
+<!-- check if the user is logging-->
+<!--####################### java Inicio #######################--
+<%
+
+
+
+}else {
+// take to usuario to validate the token
+response.sendRedirect( "TokenValidate.jsp" );
+}
+}else {
+// if no user login or no Usuario Resend to index.jsp
+response.sendRedirect( "index.jsp" );
+}
+
+%>
+<%--####################### java Fin #######################-->
+
+
+<!-- seccion of modal offcanvas -->
+    <!-- offcanvas para restablecer la clave -->
+    <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasRight" aria-labelledby="offcanvasRightLabel">
+        <div class="offcanvas-header bg-primary text-light rounded-bottom shadow-sm">
+            <h5 class="offcanvas-title" id="offcanvasRightLabel">Quieres restablecer la contraseña?</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+
+        <!-- alert restablecer contrasena -->
+        <div class="alert alert-warning alert-restablecer" role="alert">
+            A simple warning alert—check it out!
+          </div>
+        <!-- FIN alert restablecer contrasena -->
+          
+        <div class="offcanvas-body fw-bold m-4 border  rounded-2 shadow-lg">
+            <form action="/" method="post">
+                <div class="mb-3">
+                    <label for="formGroupExampleInput" class="form-label">Ingresa tu contraseña</label>
+                    <input type="password" class="form-control" id="formGroupExampleInput" placeholder="Vieja contraseña">
+                </div>
+                <div class="mb-3">
+                    <label for="formGroupExampleInput2" class="form-label">Nueva contraseña</label>
+                    <input type="password" class="form-control" id="formGroupExampleInput2" placeholder="Nueva contraseña">
+                </div>
+                <div class="mb-3">
+                    <label for="formGroupExampleInput2" class="form-label">Confirmar contraseña</label>
+                    <input type="password" class="form-control" id="formGroupExampleInput2" placeholder="Repite contraseña">
+                </div>
+
+                <div class="d-flex justify-content-center mx-auto pt-4 btn-group " style="width: 4em;">
+                    <button type="reset" class="btn btn-outline-danger" style="min-width: 8em;">Borrar</button>
+                    <button type="submit" class="btn btn-primary" style="min-width: 8em;">Restablecer</button>
+                </div>
+
+            </form>
+        </div>
+    </div>
+    <!-- FIN offcanvas para restablecer la clave -->
+
+
+
+    <!-- offcanvas para ver el perfil del usuario -->
+    <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasPerfil" aria-labelledby="offcanvasRightLabel">
+        <div class="offcanvas-header bg-primary text-light rounded-bottom shadow-sm">
+            <h5 class="offcanvas-title" id="offcanvasRightLabel">Perfil del usuario</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body fw-bold m-4 border  rounded-2 shadow-lg">
+            
+            <div>
+                <p class="fw-semibold ">Nombre: </p>
+                <p>Ariel Cocherane</p>
+            </div>
+            <div>
+                <p class="fw-semibold">Email: </p>
+                <p>arielcocherane@gmail.com</p>
+            </div>
+        </div>
+    </div>
+    <!-- FIN offcanvas para ver el perfil del usuario -->
+
+<!-- Fin seccion of modal offcanvas -->
+
+</body>
+
+</html>
